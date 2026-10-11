@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /brand.html
+Disallow: /diagnostics.html
+Sitemap: https://daynightgroup.ro/sitemap.xml

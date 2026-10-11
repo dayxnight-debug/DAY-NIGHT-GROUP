@@ -1,0 +1,183 @@
+{
+  "artists": [
+    {
+      "id": "xero",
+      "name": "XERØ",
+      "number": "01",
+      "symbol": "☀",
+      "roles": "Producer · Sound Engineer · Composer · Sound Designer",
+      "logoDay": "assets/xero-logo-light.png",
+      "logoNight": "assets/xero-logo-dark.png",
+      "socials": [
+        {
+          "platform": "Instagram",
+          "handle": "@xero_hates_u",
+          "url": "https://www.instagram.com/xero_hates_u/"
+        }
+      ],
+      "order": 1,
+      "active": true,
+      "bio": ""
+    },
+    {
+      "id": "midnight",
+      "name": "MIDNIGHT",
+      "number": "02",
+      "symbol": "☾",
+      "roles": "Songwriter · Lyricist · Composer · Assistant Engineer · Producer",
+      "logoDay": "assets/midnight-logo-light.png",
+      "logoNight": "assets/midnight-logo-dark.png",
+      "socials": [
+        {
+          "platform": "Instagram",
+          "handle": "@djmidnightmusic",
+          "url": "https://www.instagram.com/djmidnightmusic/"
+        },
+        {
+          "platform": "YouTube",
+          "handle": "MIDNIGHT",
+          "url": "https://www.youtube.com/channel/UCpmrXvvQ0VBxUU4ATl4Ocsg"
+        }
+      ],
+      "order": 2,
+      "active": true,
+      "bio": ""
+    }
+  ],
+  "socialAccounts": [
+    {
+      "id": "daynight-instagram",
+      "owner": "DAY//NIGHT™ Group.",
+      "platform": "Instagram",
+      "handle": "@day_night_group",
+      "url": "https://www.instagram.com/day_night_group/",
+      "type": "OFFICIAL",
+      "order": 1,
+      "active": true
+    },
+    {
+      "id": "midnight-instagram",
+      "owner": "MIDNIGHT",
+      "platform": "Instagram",
+      "handle": "@djmidnightmusic",
+      "url": "https://www.instagram.com/djmidnightmusic/",
+      "type": "ARTIST",
+      "order": 2,
+      "active": true
+    },
+    {
+      "id": "xero-instagram",
+      "owner": "XERØ",
+      "platform": "Instagram",
+      "handle": "@xero_hates_u",
+      "url": "https://www.instagram.com/xero_hates_u/",
+      "type": "ARTIST",
+      "order": 3,
+      "active": true
+    },
+    {
+      "id": "daynight-youtube",
+      "owner": "DAY//NIGHT™ Group.",
+      "platform": "YouTube",
+      "handle": "Official channel",
+      "url": "https://www.youtube.com/channel/UCIvaVAHWgwBUO5Kz7v_teiQ",
+      "type": "OFFICIAL",
+      "order": 4,
+      "active": true
+    },
+    {
+      "id": "daynight-spotify",
+      "owner": "DAY//NIGHT™ Group.",
+      "platform": "Spotify",
+      "handle": "Official artist",
+      "url": "https://open.spotify.com/artist/6atpyWkFhqPmS4VWFiHrKq",
+      "type": "OFFICIAL",
+      "order": 5,
+      "active": true
+    },
+    {
+      "id": "daynight-soundcloud",
+      "owner": "DAY//NIGHT™ Group.",
+      "platform": "SoundCloud",
+      "handle": "Official profile",
+      "url": "https://soundcloud.com/day-night-tm-group",
+      "type": "OFFICIAL",
+      "order": 6,
+      "active": true
+    },
+    {
+      "id": "daynight-tidal",
+      "owner": "DAY//NIGHT™ Group.",
+      "platform": "TIDAL",
+      "handle": "Official artist",
+      "url": "https://tidal.com/artist/81752710",
+      "type": "OFFICIAL",
+      "order": 7,
+      "active": true
+    }
+  ],
+  "tracks": [],
+  "collabs": [
+    {
+      "id": "cat-music-midnight",
+      "title": "MIDNIGHT",
+      "label": "Cat Music Official Remix Release",
+      "credit": "Remix by MIDNIGHT",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vlkE5ecjSrM",
+      "externalUrl": "https://www.youtube.com/watch?v=vlkE5ecjSrM",
+      "order": 1,
+      "active": true,
+      "artwork": ""
+    },
+    {
+      "id": "global-xero",
+      "title": "XERØ",
+      "label": "Global Records Official Remix Release",
+      "credit": "Remix by XERØ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vnwFfJzIeQE",
+      "externalUrl": "https://www.youtube.com/watch?v=vnwFfJzIeQE",
+      "order": 2,
+      "active": true,
+      "artwork": ""
+    },
+    {
+      "id": "daynight-remix",
+      "title": "DAY//NIGHT",
+      "label": "Official Remix Release",
+      "credit": "DAY//NIGHT official project",
+      "youtubeUrl": "https://youtu.be/KIUxdR_FL8E",
+      "externalUrl": "https://youtu.be/KIUxdR_FL8E",
+      "order": 3,
+      "active": true,
+      "artwork": ""
+    },
+    {
+      "id": "letitia-remix",
+      "title": "Letitia — Ce-mi faci",
+      "label": "Official Remix",
+      "credit": "DAY//NIGHT remix",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FUqIfrcvyZA",
+      "externalUrl": "https://www.youtube.com/watch?v=FUqIfrcvyZA",
+      "order": 4,
+      "active": true,
+      "artwork": ""
+    }
+  ],
+  "projects": [],
+  "schemaVersion": "23.0.0",
+  "site": {
+    "name": "DAY//NIGHT™ Group.",
+    "canonical": "https://daynightgroup.ro",
+    "tagline": "THE PEOPLE BEHIND THE SOUND",
+    "managementEmail": "management@daynightgroup.ro"
+  },
+  "brand": {
+    "dayLogo": "assets/logo-day-black.png",
+    "nightLogo": "assets/logo-night-white.png",
+    "xeroLight": "assets/xero-logo-light.png",
+    "xeroDark": "assets/xero-logo-dark.png",
+    "midnightLight": "assets/midnight-logo-light.png",
+    "midnightDark": "assets/midnight-logo-dark.png",
+    "tagline": "THE PEOPLE BEHIND THE SOUND"
+  }
+}

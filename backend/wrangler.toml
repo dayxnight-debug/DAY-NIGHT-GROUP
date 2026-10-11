@@ -1,0 +1,10 @@
+name = "daynight-contact"
+# Optional: bind a Workers KV namespace as RATE_KV to enable the built-in 5 requests / 10 minutes rate limit.
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+[vars]
+# Replace with your actual site origin. Add a second origin only if necessary.
+ALLOWED_ORIGINS = "https://daynightgroup.ro,https://www.daynightgroup.ro"
+CONTACT_TO = "management@daynightgroup.ro"
+CONTACT_FROM = "DAY NIGHT Website <contact@daynightgroup.ro>"

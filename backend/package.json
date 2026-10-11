@@ -1,0 +1,13 @@
+{
+  "name": "daynight-contact-worker",
+  "private": true,
+  "version": "23.0.0",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  },
+  "description": "DAY//NIGHT Group V23 contact Worker"
+}

@@ -1,0 +1,34 @@
+DAY//NIGHT™ — FULL LIVE CHECKLIST
+
+[ ] 1. GitHub repo creat
+[ ] 2. Toate fișierele V23 încărcate în root
+[ ] 3. GitHub Pages = GitHub Actions
+[ ] 4. Deploy workflow = SUCCESS
+[ ] 5. Custom domain = daynightgroup.ro
+[ ] 6. Cloudflare DNS pentru apex configurat
+[ ] 7. www configurat + redirect corect
+[ ] 8. HTTPS valid
+[ ] 9. Resend domain verificat
+[ ] 10. RESEND_API_KEY setat ca Worker secret
+[ ] 11. Turnstile creat pentru daynightgroup.ro
+[ ] 12. TURNSTILE_SECRET_KEY setat ca Worker secret
+[ ] 13. Worker deployat
+[ ] 14. /health = ok true
+[ ] 15. site-config.js are Worker /contact endpoint
+[ ] 16. site-config.js are Turnstile Site Key
+[ ] 17. site-config.js are GitHub repo URL
+[ ] 18. Contact form trimite email real la management@daynightgroup.ro
+[ ] 19. Admin salvează repository-ul
+[ ] 20. Test Add Project → Deploy → apare live
+[ ] 21. Test Delete Project → Deploy → dispare live
+[ ] 22. XERØ logo light/dark corect
+[ ] 23. MIDNIGHT logo light/dark corect
+[ ] 24. Logo-urile nu fug la hover
+[ ] 25. Toate cele 4 collabs sunt vizibile prin scroll
+[ ] 26. Spotify / YouTube / SoundCloud funcționează
+[ ] 27. Mobil 360/390/412 testat
+[ ] 28. Desktop testat
+[ ] 29. Search Console verificat
+[ ] 30. sitemap.xml trimis și acceptat
+
+CLOSED numai când toate cele 30 sunt bifate.
